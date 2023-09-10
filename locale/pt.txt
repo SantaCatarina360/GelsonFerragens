@@ -1,0 +1,70 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_6D4B4BE2_7C36_C0FE_41DD_35DB40248BCD.source = https://goo.gl/maps/oS2EvDeSBzQoKN9x9
+LinkBehaviour_396E35E0_7C12_40FA_41D1_666125E7D526.source = https://goo.gl/maps/oS2EvDeSBzQoKN9x9
+
+## Media
+
+### Audio
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+audiores_6282CBFE_7C12_C0C6_41BC_03B1B918603C.mp3Url = media/audio_62E05274_7C0E_43DA_41CF_4B2E062A76D8_pt.mp3
+
+### Title
+album_644D0432_7C32_475F_41C1_E9FD72E70E85_35.label = Gelson Ferragens (36)
+panorama_7EBAB4F0_72CB_EFB9_41D0_1BCAF5EBC7CC.label = IMG_20230906_115704_00_114_PureShot
+panorama_785599A6_72CB_A659_41D0_FDB3BE4A2F8D.label = IMG_20230906_120054_00_115_PureShot
+panorama_78578D81_72CB_9E5B_41D4_381BA76028A0.label = IMG_20230906_120433_00_116_PureShot
+panorama_7857EE0A_72CB_7A69_41D4_42472EB3A284.label = IMG_20230906_120529_00_117_PureShot
+panorama_7850BD04_72CA_9E59_41D4_3D2BC7213302.label = IMG_20230906_120658_00_118_PureShot
+panorama_7850AC16_72CA_BE66_41CE_4D1476AA1964.label = IMG_20230906_120751_00_119_PureShot
+panorama_78508AB4_72CA_9BBA_41DB_C9B7C320467B.label = IMG_20230906_120901_00_120_PureShot
+
+## Popup
+
+### Body
+htmlText_44775A13_7C32_435E_41C8_FE8A8E84DDB8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_34F302C2_7C12_433E_41A4_EEA06FD6EC67.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Skin
+
+### Button
+Button_68E92686_7C3E_C347_41D8_D2EE23B5DB16.label = Galeria de Fotos 
+Button_3DB091BA_7CF2_C14E_41D1_2ABD7D3BABFC.pressedLabel = Inserdt Text
+Button_7389A3C1_7C16_C13D_41C3_105CC932B20C.pressedLabel = Inserdt Text
+Button_46D55D07_7C36_C146_41CF_530D720174FE.label = Morro Estevão, Criciúma - SC
+Button_3DB141BA_7CF2_C14E_41C8_86B4F6B3E4EE.label = Vista  da frente
+Button_738843C1_7C16_C13D_41B8_F55D6EA2ECD2.label = Vista da frente
+Button_7389E3C1_7C16_C13D_41B7_603F43E4BF4D.label = Vista estacionamento 1
+Button_3DB0B1BA_7CF2_C14E_41DC_795FB2FEFAAB.label = Vista estacionamento 1
+Button_3A6B2267_7C12_43C5_41CC_B29511832126.label = Vista estacionamento 2
+Button_738B53C1_7C16_C13D_41D9_C678D4B2A76A.label = Vista estacionamento 2
+Button_3DB0F1BA_7CF2_C14E_41DE_C8970E06DF58.label = Vista frente loja
+Button_3DB0D1BA_7CF2_C14E_41C2_5CE517FD94D2.label = Vista frente pavilhão
+Button_738893C2_7C16_C13F_41C2_5560C22348A8.label = Vista frente pavilhão
+Button_6D29E5E5_7C32_40C5_41DD_D8CF7744B37D.label = Vista porta loja
+Button_3DB091BA_7CF2_C14E_41D1_2ABD7D3BABFC.label = Vista portão
+Button_7389A3C1_7C16_C13D_41C3_105CC932B20C.label = Vista portão
+Button_3DB121BA_7CF2_C14E_41D9_DE83D343E54B.label = Vista rua
+Button_738863C1_7C16_C13D_41DE_D1A678EEB2D6.label = Vista rua
+
+### Image
+Image_38980126_7C12_4146_41D5_48DE9149C575.url = skin/Image_38980126_7C12_4146_41D5_48DE9149C575_pt.png
+Image_6F8B28D6_7C33_C0C6_41DD_814D258DA515.url = skin/Image_6F8B28D6_7C33_C0C6_41DD_814D258DA515_pt.png
+
+### Multiline Text
+HTMLText_3DB021BA_7CF2_C14E_4196_CA435AAF9BAF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 3
